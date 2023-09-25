@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @12kena
-- 👀 I’m interested in ...coding and ohter stuff.
+- 👀 I’m interested in ...coding and other stuff.
 - 🌱 I’m currently learning ...web development
 - 💞️ I’m looking to collaborate on ...projects related to web development.
 - 📫 How to reach me ... my email address is: jokkane319@gmail.com.
